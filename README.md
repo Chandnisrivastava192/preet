@@ -1,1 +1,2 @@
-# preet
+#!/bin/bash
+echo "Hello World"
